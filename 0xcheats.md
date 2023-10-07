@@ -1,8 +1,8 @@
 ---
 title: 0xCheats
 description: 
-published: false
-date: 2023-10-07T20:56:26.348Z
+published: true
+date: 2023-10-07T22:45:03.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-07T20:56:26.348Z
@@ -10,10 +10,10 @@ dateCreated: 2023-10-07T20:56:26.348Z
 
 <img src="/0xcheats.png" alt="0xcheats-logo" width="200"/>
 
-## Introduction
+# 0xCheats
 The team at 0xCheats comprises of skilled developers who have created remarkable software for various games. Their mod menu has gained recognition for its exceptional power, stability, and user-friendly interface.
 
-## 0xcheats FiveM setup
+## Setup
 1. Head to the 0xCheats website [here](https://0xcheats.net/auth/).
 > You will have to complete a captcha before entering their website.
 > {.is-info}
