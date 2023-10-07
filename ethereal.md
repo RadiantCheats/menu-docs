@@ -2,7 +2,7 @@
 title: Ethereal
 description: 
 published: true
-date: 2023-10-07T20:58:39.731Z
+date: 2023-10-07T22:40:40.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-07T20:58:39.731Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-07T20:58:39.731Z
 
 <img src="ethereal.png" alt="ethereal-logo" width="200"/>
 
-## Introduction
+# GTAV
 Ethereal is a budget-friendly and feature-packed mod menu for GTA V that offers a wide range of options for recovery, trolling, protection, and custom modded vehicles. Its user-friendly interface and regular, free updates make it a safe and undetected choice for all versions of Windows.
 
 With Ethereal, you can take your gameplay to the next level thanks to its strong kick and crash protection features, which give you the upper hand in even the most packed lobbies.
@@ -40,3 +40,15 @@ That's all. Have fun!
 - Scroll Up: <kbd>Up Arrow</kbd>
 - Scroll Down: <kbd>Down Arrow</kbd>
 - Increase/Decrease Values: <kbd>Left & Right Arrow</kbd>
+
+# Fortnite
+Ethereal consists of a team of skilled developers with many years of experience.
+They have recently launched a version for Fortnite that already boasts impressive features, delivering everything you would expect.
+We've also tested the cheat thoroughly, and it works perfectly and, of course, remains undetected.
+
+Ethereal truly sets itself apart from the competition!
+
+## Setup
+1. Create an account on the Ethereal forum [here](https://etherealmenu.cn/).
+2. Download the Fortnite [loader](https://etherealmenu.cn/index.php?attachments/571/).
+3. Follow the video tutorial [here](https://streamable.com/957hb5).
