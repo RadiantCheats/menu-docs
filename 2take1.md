@@ -2,13 +2,13 @@
 title: 2take1
 description: 
 published: true
-date: 2023-10-07T01:37:23.234Z
+date: 2023-10-07T20:39:06.500Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-07T01:37:23.233Z
 ---
 
-<img src=\"/2t1-logo.png\" alt=\"drawing\" width=\"200\"/>
+<img src="/2take1.png" alt="2take1-logo" width="200"/>
 
 ## Introduction
 [2take1](https://2take1.menu) is the first menu you'll always hear. The fastest to update after a GTA update, this menu offers you the best protections ever present in a menu so that no one out there can mess with you, super stability to keep you engaged for hours, tons of features so that you never get bored in GTA, and so much more! With it's unique Lua Script Engine, you can make and code your own scripts in Lua via which you can add your own features in the menu as well! A menu that cannot be overlooked, 2Take1 is by far one of the best menu on the market that has everything you will ever need in a mod menu.
