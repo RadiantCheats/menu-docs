@@ -1,17 +1,17 @@
 ---
 title: Cherax
 description: 
-published: true
-date: 2023-10-07T20:37:36.791Z
+published: 1
+date: 2024-05-24T20:26:01.386Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-07T20:37:36.791Z
+dateCreated: 2023-12-09T05:18:28.444Z
 ---
 
 <img src="/cherax.jpg" alt="cherax-logo" width="200"/>
 
 ## Setup
-1. First, register an account at their website [here](https://cherax.vip/).
+1. First, register an account at their website [here](https://cherax.menu/).
 > You may have to verify your email before continuing. Make sure to check your spam folder.
 > {.is-info}
 2. Navigate [here](https://cherax.vip/store/cherax.1/purchase) and add Cherax to your cart.
