@@ -2,7 +2,7 @@
 title: MemeSense
 description: 
 published: 1
-date: 2024-05-24T08:26:25.980Z
+date: 2024-05-25T10:23:08.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T05:19:20.406Z
@@ -19,11 +19,12 @@ Join the satisfied community who have made MemeSense their preferred gaming tool
 
  # Memesense setup:
 1. Register an account [here](https://memesense.gg/account)
-2. After creating an account, you will be automaticcly be logged in. 
+2. After creating an account, you will be  automatically  be logged in. 
 3. Register your key [here](https://memesense.gg/account/activation-keys)
 4. After you registered your key you can download the launcher [here](https://memesense.gg/account/download-launcher)
 5. When the launcher is downloaded you can sign into your account
 6. After logging in you can simply press the "load" and follow the instructions displayed on your screen.
+
 That's all. Have fun!
 
 # NOT INJECTING?
