@@ -2,7 +2,7 @@
 title: Neverlose
 description: 
 published: 1
-date: 2024-05-25T11:06:02.908Z
+date: 2024-05-25T11:06:11.611Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-25T10:32:38.881Z
@@ -15,7 +15,7 @@ dateCreated: 2024-05-25T10:32:38.881Z
 
 
 1. Register an account [here](https://neverlose.cc/?redir=me)
-2. Run the `/redeem` command by messaging `@RCNeverlose#6322`make sure you use your Neverlose username.
+2. Run the `/redeem` command by messaging `@RCNeverlose#6322` also make sure you use your Neverlose username.
 3. The download option will appear on the website upon redemption [here](https://en.neverlose.cc/me).
 > Remember to turn off antivirus when downloading. Due to the nature of how cheats operate, antivirus detects it as a false positive. Not turning off your antivirus will result in your cheat not working or it will give errors. {.is-warning}
 4. When the program is downloaded, press on the CS2 section and press on the `load` button. This will also start your game for you.
