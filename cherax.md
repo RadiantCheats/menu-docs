@@ -2,7 +2,7 @@
 title: Cherax
 description: 
 published: 1
-date: 2024-05-25T09:21:53.956Z
+date: 2024-05-25T09:33:25.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T05:18:28.444Z
@@ -14,14 +14,10 @@ dateCreated: 2023-12-09T05:18:28.444Z
 1. First, register an account at their website [here](https://cherax.menu/).
 > You may have to verify your email before continuing. Make sure to check your spam folder.
 > {.is-info}
-2. Navigate [here](https://cherax.vip/store/cherax.1/purchase) and add Cherax to your cart.
+2. Navigate [here](https://dash.cherax.menu/redeem) and redeem your key that was provided
+3. After redeeming your key head over to the "loader" section [here](dash.cherax.menu/loader) and download the .exe 
+4. Make sure your antivirus doesnt interfere with the loader 
 
-3. Go to the checkout page [here](https://cherax.vip/store/checkout), checkmark Cherax as shown in the image below, and input your Cherax key you've received from us into the discount code box.
-
-4. Go to the submenu under the \"Purchase\" button at the top of the website, click your licenses, and click download.
-
-5. Extract the downloaded `.zip` folder to your desktop or your desired location
-
-6. Open the `.exe` file in the extracted folder, click on Grand Theft Auto, and click inject.
+5. Open the `.exe` file and login using your details from the website, upon login click the dropdown menu and select which game launcher you are using and press start.
 
 To open the menu, press the `DELETE` button. Have fun!
