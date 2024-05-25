@@ -2,7 +2,7 @@
 title: Cherax
 description: 
 published: 1
-date: 2024-05-25T09:33:25.213Z
+date: 2024-05-25T09:39:14.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T05:18:28.444Z
@@ -20,4 +20,4 @@ dateCreated: 2023-12-09T05:18:28.444Z
 
 5. Open the `.exe` file and login using your details from the website, upon login click the dropdown menu and select which game launcher you are using and press start.
 
-To open the menu, press the `DELETE` button. Have fun!
+To open the menu, press the `END` button. To change the key press f10 then navigate from there. Have fun!
