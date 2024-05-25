@@ -2,13 +2,13 @@
 title: Cherax
 description: 
 published: 1
-date: 2024-05-24T20:26:01.386Z
+date: 2024-05-25T09:21:53.956Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-09T05:18:28.444Z
 ---
 
-<img src="/cherax.jpg" alt="cherax-logo" width="200"/>
+<img src="/cherax2.png" alt="cherax-logo" width="200"/>
 
 ## Setup
 1. First, register an account at their website [here](https://cherax.menu/).
