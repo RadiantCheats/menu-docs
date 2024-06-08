@@ -1,11 +1,11 @@
 ---
 title: 0xCheats
 description: 
-published: true
-date: 2023-10-07T22:45:03.788Z
+published: 1
+date: 2024-06-08T14:12:36.991Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-07T20:56:26.348Z
+dateCreated: 2023-12-09T05:18:13.430Z
 ---
 
 <img src="/0xcheats.png" alt="0xcheats-logo" width="200"/>
@@ -30,4 +30,4 @@ if any problems persist head over [here](https://0xcheats.net/help/) or **contac
 
 ## Key Configuration
 - Open/Close: <kbd>Insert</kbd>
-- Select/Navigate: Click UI
+- Select/Navigate: Click UI.
