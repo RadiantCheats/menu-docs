@@ -2,12 +2,13 @@
 title: Klar-R6
 description: 
 published: 1
-date: 2024-06-08T17:52:19.984Z
+date: 2024-06-08T17:53:08.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-08T17:52:19.984Z
 ---
 
+![klar.png](/klar.png)
 # Requirements:
 
 ### Intel / AMD 
