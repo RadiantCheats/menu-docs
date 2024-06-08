@@ -2,7 +2,7 @@
 title: Fecurity-Apex
 description: 
 published: 1
-date: 2024-06-08T16:37:19.917Z
+date: 2024-06-08T16:38:48.397Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-08T16:37:19.917Z
@@ -11,7 +11,7 @@ dateCreated: 2024-06-08T16:37:19.917Z
 <img src="/fecurity.png" alt="fecurity-logo" width="200"/>
 
 # Fecurity
-Fecurity is one of the major cheats to provide working cheats for Escape from Tarkov.
+Fecurity is one of the major cheats to provide working cheats for Apex Legends.
 It already has all necessary features for taking your cheating experience to the next level with a lot of fun and joy!
 
 It recieves frequent updates, and the software is, of course, undetected.
