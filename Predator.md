@@ -2,7 +2,7 @@
 title: Predator
 description: 
 published: 1
-date: 2024-06-16T07:08:11.866Z
+date: 2024-06-16T07:13:52.021Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-16T07:08:11.866Z
@@ -18,5 +18,5 @@ dateCreated: 2024-06-16T07:08:11.866Z
 
 - Create an account and register [here](https://predator.systems/register/)
 
-> - You can find the "key activation" section at the predator website by clicking on [purchase](https://predator.systems/products/), click on activate and enter.
+> - You can find the "key activation" section at the predator website by clicking on [purchase](https://predator.systems/products/), click on activate and enter your license key.
 > - You will be able to then install and play, make sure ot turn off your antivirus settings beforehand. Enjoy!
