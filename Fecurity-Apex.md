@@ -2,7 +2,7 @@
 title: Fecurity-Apex
 description: 
 published: 1
-date: 2024-06-08T16:38:48.397Z
+date: 2024-06-21T18:03:46.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-06-08T16:37:19.917Z
@@ -17,7 +17,7 @@ It already has all necessary features for taking your cheating experience to the
 It recieves frequent updates, and the software is, of course, undetected.
 
 ## Requirements
-- Your computer must use and Intel or AMD CPU.
+- Your computer must use an Intel CPU.
 - AVC and UEFI BIOS is required.
 - Your Windows version should be at least 2004 using 10 or 11.
 - Your system should not be modified by Win Tweaker or similar software.
